@@ -1,0 +1,15 @@
+digest: a2b2b70a
+name: dataset
+profile: '{"num_rows": 1895, "num_elements": 22740}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "PT08.S1(CO)", "required":
+  true}, {"type": "double", "name": "NMHC(GT)", "required": true}, {"type": "double",
+  "name": "C6H6(GT)", "required": true}, {"type": "double", "name": "PT08.S2(NMHC)",
+  "required": true}, {"type": "double", "name": "NOx(GT)", "required": true}, {"type":
+  "double", "name": "PT08.S3(NOx)", "required": true}, {"type": "double", "name":
+  "NO2(GT)", "required": true}, {"type": "double", "name": "PT08.S4(NO2)", "required":
+  true}, {"type": "double", "name": "PT08.S5(O3)", "required": true}, {"type": "double",
+  "name": "T", "required": true}, {"type": "double", "name": "RH", "required": true},
+  {"type": "double", "name": "AH", "required": true}]}'
+source: '{"tags": {"mlflow.user": "fahry", "mlflow.source.name": "modelling.py", "mlflow.source.type":
+  "LOCAL", "mlflow.source.git.commit": "c1bbb3422b4b98093717874a36934ca01cc28512"}}'
+source_type: code

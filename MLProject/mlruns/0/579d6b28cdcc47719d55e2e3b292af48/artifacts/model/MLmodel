@@ -1,0 +1,32 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.19.0
+model_size_bytes: 813
+model_uuid: 06adec39e71749918bf556a7da930edc
+run_id: 579d6b28cdcc47719d55e2e3b292af48
+signature:
+  inputs: '[{"type": "double", "name": "PT08.S1(CO)", "required": true}, {"type":
+    "double", "name": "NMHC(GT)", "required": true}, {"type": "double", "name": "C6H6(GT)",
+    "required": true}, {"type": "double", "name": "PT08.S2(NMHC)", "required": true},
+    {"type": "double", "name": "NOx(GT)", "required": true}, {"type": "double", "name":
+    "PT08.S3(NOx)", "required": true}, {"type": "double", "name": "NO2(GT)", "required":
+    true}, {"type": "double", "name": "PT08.S4(NO2)", "required": true}, {"type":
+    "double", "name": "PT08.S5(O3)", "required": true}, {"type": "double", "name":
+    "T", "required": true}, {"type": "double", "name": "RH", "required": true}, {"type":
+    "double", "name": "AH", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2025-12-22 15:43:16.748273'

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/fahry/Documents/GitHub/Workflow-CI-Fachri-Rachmansyah-Putra/MLProject/mlruns/0/579d6b28cdcc47719d55e2e3b292af48/artifacts
+end_time: 1766418205794
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 579d6b28cdcc47719d55e2e3b292af48
+run_name: bold-stag-844
+run_uuid: 579d6b28cdcc47719d55e2e3b292af48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766418196462
+status: 3
+tags: []
+user_id: fahry
