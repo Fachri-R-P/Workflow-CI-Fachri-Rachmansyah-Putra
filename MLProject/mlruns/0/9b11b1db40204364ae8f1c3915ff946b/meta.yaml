@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/fahry/Documents/GitHub/Workflow-CI-Fachri-Rachmansyah-Putra/MLProject/mlruns/0/9b11b1db40204364ae8f1c3915ff946b/artifacts
+end_time: 1766451345561
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b11b1db40204364ae8f1c3915ff946b
+run_name: awesome-frog-987
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766451340635
+status: 3
+tags: []
+user_id: USER

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/fahry/Documents/GitHub/Workflow-CI-Fachri-Rachmansyah-Putra/MLProject/mlruns/0/models/m-bed6cc4f62d04b8dbf0bd511d80b186b/artifacts
+creation_timestamp: 1766451155122
+experiment_id: '0'
+last_updated_timestamp: 1766451166035
+model_id: m-bed6cc4f62d04b8dbf0bd511d80b186b
+model_type: null
+name: model
+source_run_id: 817aed678fa9430eba00676a6d6b315a
+status: 3
+status_message: null

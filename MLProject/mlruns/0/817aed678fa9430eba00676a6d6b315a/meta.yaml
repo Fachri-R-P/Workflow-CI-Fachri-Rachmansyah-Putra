@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/fahry/Documents/GitHub/Workflow-CI-Fachri-Rachmansyah-Putra/MLProject/mlruns/0/817aed678fa9430eba00676a6d6b315a/artifacts
+end_time: 1766451166061
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 817aed678fa9430eba00676a6d6b315a
+run_name: silent-ram-230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766451154895
+status: 4
+tags: []
+user_id: USER
