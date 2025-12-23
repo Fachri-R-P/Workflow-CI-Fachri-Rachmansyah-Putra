@@ -23,15 +23,15 @@ X_train, X_test, y_train, y_test = train_test_split(
 # Aktifkan MLflow autolog
 mlflow.sklearn.autolog()
 
-with mlflow.start_run():
-    model = LinearRegression()
-    model.fit(X_train, y_train)
+# with mlflow.start_run():
+#     model = LinearRegression()
+#     model.fit(X_train, y_train)
 
-    y_pred = model.predict(X_test)
+#     y_pred = model.predict(X_test)
 
     
-    rmse = np.sqrt(mean_squared_error(y_test, y_pred))
-    r2 = r2_score(y_test, y_pred)
+#     rmse = np.sqrt(mean_squared_error(y_test, y_pred))
+#     r2 = r2_score(y_test, y_pred)
 
-    print("RMSE:", rmse)
-    print("R2:", r2)
+#     print("RMSE:", rmse)
+#     print("R2:", r2)
